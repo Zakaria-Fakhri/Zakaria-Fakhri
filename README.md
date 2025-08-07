@@ -25,7 +25,8 @@ Welcome to my GitHub profile.
 
 ### 🌐 Let's Connect
 
-- **LinkedIn**: [zakariae-fakhri](https://de.linkedin.com/in/zakariae-fakhri)
-- **Email**: zakafakhri_outb@outlook.de
+- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://de.linkedin.com/in/zakariae-fakhri)  
+- [![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:zakafakhri_outb@outlook.de)
+
 
 ---
