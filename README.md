@@ -25,8 +25,14 @@ Welcome to my GitHub profile.
 
 ### 🌐 Let's Connect
 
-- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://de.linkedin.com/in/zakariae-fakhri)  
-- [![Email](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:zakafakhri_outb@outlook.de)
+<a href="https://de.linkedin.com/in/zakariae-fakhri" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle"/>
+</a>
+&nbsp;  
+<a href="mailto:zakafakhri_outb@outlook.de">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="20" height="20" style="vertical-align:middle"/>
+</a>
+
 
 
 ---
