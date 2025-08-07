@@ -25,15 +25,17 @@ Welcome to my GitHub profile.
 
 ### 🌐 Let's Connect
 
-<a href="https://de.linkedin.com/in/zakariae-fakhri" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle"/>  
-  LinkedIn
-</a>
-<br/>
-<a href="mailto:zakafakhri_outb@outlook.de">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="20" height="20" style="vertical-align:middle"/>
-  Email
-</a>
+<p>
+  <a href="https://de.linkedin.com/in/zakariae-fakhri" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0A66C2; font-weight:600; margin-right:20px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" style="margin-right:8px;"/>
+    LinkedIn
+  </a>
+
+  <a href="mailto:zakafakhri_outb@outlook.de" style="text-decoration:none; color:#D44638; font-weight:600; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="24" height="24" style="margin-right:8px;"/>
+    Email
+  </a>
+</p>
 
 
 
