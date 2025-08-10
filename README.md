@@ -20,6 +20,7 @@
 | **Cloud & OS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/> |
 
 ---
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zakaria-Fakhri&theme=github_dark)
 
 ### 🌐 Let's Connect
 
