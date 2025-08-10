@@ -20,11 +20,10 @@
 | **Cloud & OS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/> |
 
 ---
-## 📊 GitHub Statistics
+
 
 ![GitHub Stats](https://raw.githubusercontent.com/Zakaria-Fakhri/github-stats/master/generated/overview.svg)
 
-## 💻 Programming Languages
 
 ![Top Languages](https://raw.githubusercontent.com/Zakaria-Fakhri/github-stats/master/generated/languages.svg)
 
