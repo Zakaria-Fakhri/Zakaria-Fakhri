@@ -22,11 +22,11 @@
 ---
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://raw.githubusercontent.com/IHR_USERNAME/github-stats/master/generated/overview.svg)
+![GitHub Stats](https://raw.githubusercontent.com/Zakaria-Fakhri/github-stats/master/generated/overview.svg)
 
 ## 💻 Programming Languages
 
-![Top Languages](https://raw.githubusercontent.com/IHR_USERNAME/github-stats/master/generated/languages.svg)
+![Top Languages](https://raw.githubusercontent.com/Zakaria-Fakhri/github-stats/master/generated/languages.svg)
 
 ---
 
