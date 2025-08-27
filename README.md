@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2FC630&width=435&lines=Hi%2C+I'am+Zak!;Welcome+to+my+Github+profile.;Let's+create+the+future+together.)](https://git.io/typing-svg)
 ---
 
-### About Me
+### About Me :)
 - I have a deep interest in **algorithms**, **machine learning**, and **software optimization**.
 - I'm open to collaborating on projects related to **algorithmic and complex problem-solving**.
 - You can reach me anytime via email: **zakafakhri_outb@outlook.de**
