@@ -29,7 +29,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://de.linkedin.com/in/zakariae-fakhri" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0A66C2; font-weight:600; margin-right:20px; display:inline-flex; align-items:center;">
