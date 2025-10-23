@@ -5,6 +5,7 @@
 - I have a deep interest in **algorithms**, **machine learning**, and **software optimization**.
 - I'm open to collaborating on projects related to **algorithmic and complex problem-solving**.
 - You can reach me anytime via email: **zakafakhri_outb@outlook.de**
+- https://medium.com/@zakariaefakhri
 
 ---
 
