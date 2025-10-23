@@ -32,13 +32,14 @@
 
 ### Let's Connect
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://de.linkedin.com/in/zakariae-fakhri" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  <a href="https://de.linkedin.com/in/zakariae-fakhri" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:zakafakhri_outb@outlook.de">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
