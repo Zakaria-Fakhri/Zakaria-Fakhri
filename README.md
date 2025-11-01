@@ -9,7 +9,7 @@
 
 ---
 
-### 💻 My Tech Stack
+### My Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
