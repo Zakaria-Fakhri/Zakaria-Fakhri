@@ -22,7 +22,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakaria-Fakhri&show_icons=true&theme=transparent)
 
 ![GitHub Stats](https://raw.githubusercontent.com/Zakaria-Fakhri/github-stats/master/generated/overview.svg)
 
