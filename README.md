@@ -7,8 +7,8 @@
 - You can reach me anytime via email: **zakafakhri_outb@outlook.de**
 - https://medium.com/@zakariaefakhri
 
----
 
+### My techstack
 <div align="center">
 
 ### Frontend  
@@ -52,7 +52,7 @@
 
 </div>
 
----
+### My statistics
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
