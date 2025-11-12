@@ -27,7 +27,10 @@
 
 
 ---
-
+<p align="center">
+  <img src="https://git-rainbow.com/DeinGitHubUsername/svg" alt="Git Rainbow Calendar"/>
+</p>
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
