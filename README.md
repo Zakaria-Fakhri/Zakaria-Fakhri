@@ -11,6 +11,15 @@
 ### My techstack
 <div align="center">
 
+### Theoretical informatics
+<img src="https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white"/>
+<img src="https://img.shields.io/badge/SageMath-6495ED?style=for-the-badge&logo=sagemath&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coq-9F2B68?style=for-the-badge&logo=coq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithm%20Analysis-2E8B57?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graph%20Theory-1E90FF?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Complexity%20Theory-800080?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automata%20Theory-000000?style=for-the-badge&logo=turing&logoColor=white"/>
+
 ### Frontend  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
