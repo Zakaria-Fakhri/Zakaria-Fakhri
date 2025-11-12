@@ -23,10 +23,8 @@
 ---
 
 
-![GitHub Stats](https://raw.githubusercontent.com/Zakaria-Fakhri/github-stats/master/generated/overview.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-
-![Top Languages](https://raw.githubusercontent.com/Zakaria-Fakhri/github-stats/master/generated/languages.svg)
 
 ---
 
